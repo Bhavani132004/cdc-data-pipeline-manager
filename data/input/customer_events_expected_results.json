@@ -1,0 +1,11 @@
+{
+  "total_generated": 58,
+  "inserts": 25,
+  "updates": 17,
+  "deletes": 8,
+  "exact_duplicates": 1,
+  "conflicting_duplicates": 1,
+  "out_of_order": 1,
+  "invalid_schema_or_values": 4,
+  "unknown_references": 1
+}

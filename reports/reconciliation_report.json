@@ -1,0 +1,51 @@
+{
+  "timestamp": "2026-11-07T03:04:36.756959+00:00",
+  "overall_status": "PASS",
+  "total_checks": 7,
+  "passed_checks": 7,
+  "failed_checks": 0,
+  "checks": [
+    {
+      "check_name": "Unique Customer IDs",
+      "status": "PASS",
+      "details": "Total rows: 25, Distinct customer IDs: 25",
+      "passed": true
+    },
+    {
+      "check_name": "Unique Historical Event IDs",
+      "status": "PASS",
+      "details": "Total historical events: 45, Distinct event IDs: 45",
+      "passed": true
+    },
+    {
+      "check_name": "Current State Version Consistency",
+      "status": "PASS",
+      "details": "Version mismatches between current state and applied history: 0",
+      "passed": true
+    },
+    {
+      "check_name": "Soft-Deletion State Integrity",
+      "status": "PASS",
+      "details": "Customers with mismatched deletion flag: 0",
+      "passed": true
+    },
+    {
+      "check_name": "Quarantine Audit Traceability",
+      "status": "PASS",
+      "details": "Rejected records missing reasons or payloads: 0",
+      "passed": true
+    },
+    {
+      "check_name": "Event Accounting Conservation (Input = Valid + Dup + Rej)",
+      "status": "PASS",
+      "details": "Runs failing exact event accounting: 0 (out of 1 runs)",
+      "passed": true
+    },
+    {
+      "check_name": "Payload Hash Cryptographic Integrity",
+      "status": "PASS",
+      "details": "Historical events missing SHA-256 payload hash: 0",
+      "passed": true
+    }
+  ]
+}

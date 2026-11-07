@@ -1,0 +1,582 @@
+[
+  {
+    "event_id": "EVT-0000001",
+    "customer_id": "CUST-01000",
+    "operation": "INSERT",
+    "name": "Patricia Smith",
+    "city": "Seattle",
+    "salary": 70713.64,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:18:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000002",
+    "customer_id": "CUST-01001",
+    "operation": "INSERT",
+    "name": "Patricia Hernandez",
+    "city": "Miami",
+    "salary": 54128.58,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:55:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000003",
+    "customer_id": "CUST-01002",
+    "operation": "INSERT",
+    "name": "Mary Smith",
+    "city": "San Francisco",
+    "salary": 67956.99,
+    "version": 1,
+    "event_timestamp": "2026-11-01T11:05:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000004",
+    "customer_id": "CUST-01003",
+    "operation": "INSERT",
+    "name": "James Rodriguez",
+    "city": "Chicago",
+    "salary": 120182.06,
+    "version": 1,
+    "event_timestamp": "2026-11-01T11:30:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000005",
+    "customer_id": "CUST-01004",
+    "operation": "INSERT",
+    "name": "Sarah Miller",
+    "city": "Chicago",
+    "salary": 92166.95,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:36:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000006",
+    "customer_id": "CUST-01005",
+    "operation": "INSERT",
+    "name": "James Gonzalez",
+    "city": "Austin",
+    "salary": 118304.64,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:44:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000007",
+    "customer_id": "CUST-01006",
+    "operation": "INSERT",
+    "name": "William Williams",
+    "city": "Chicago",
+    "salary": 145507.37,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:44:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000008",
+    "customer_id": "CUST-01007",
+    "operation": "INSERT",
+    "name": "Patricia Johnson",
+    "city": "Denver",
+    "salary": 55155.22,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:45:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000009",
+    "customer_id": "CUST-01008",
+    "operation": "INSERT",
+    "name": "William Gonzalez",
+    "city": "New York",
+    "salary": 121621.84,
+    "version": 1,
+    "event_timestamp": "2026-11-01T11:09:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000010",
+    "customer_id": "CUST-01009",
+    "operation": "INSERT",
+    "name": "Patricia Anderson",
+    "city": "Denver",
+    "salary": 53274.02,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:38:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000011",
+    "customer_id": "CUST-01010",
+    "operation": "INSERT",
+    "name": "Barbara Martinez",
+    "city": "Chicago",
+    "salary": 118980.04,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:06:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000012",
+    "customer_id": "CUST-01011",
+    "operation": "INSERT",
+    "name": "Linda Gonzalez",
+    "city": "Seattle",
+    "salary": 148448.26,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:30:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000013",
+    "customer_id": "CUST-01012",
+    "operation": "INSERT",
+    "name": "Patricia Miller",
+    "city": "Seattle",
+    "salary": 92608.08,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:47:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000014",
+    "customer_id": "CUST-01013",
+    "operation": "INSERT",
+    "name": "Jennifer Garcia",
+    "city": "Boston",
+    "salary": 66998.24,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:35:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000015",
+    "customer_id": "CUST-01014",
+    "operation": "INSERT",
+    "name": "Robert Martinez",
+    "city": "Austin",
+    "salary": 101084.69,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:32:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000016",
+    "customer_id": "CUST-01015",
+    "operation": "INSERT",
+    "name": "Jennifer Davis",
+    "city": "Denver",
+    "salary": 73344.52,
+    "version": 1,
+    "event_timestamp": "2026-11-01T11:22:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000017",
+    "customer_id": "CUST-01016",
+    "operation": "INSERT",
+    "name": "Sarah Brown",
+    "city": "Boston",
+    "salary": 133499.45,
+    "version": 1,
+    "event_timestamp": "2026-11-01T11:40:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000018",
+    "customer_id": "CUST-01017",
+    "operation": "INSERT",
+    "name": "Mary Brown",
+    "city": "New York",
+    "salary": 129529.81,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:52:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000019",
+    "customer_id": "CUST-01018",
+    "operation": "INSERT",
+    "name": "William Johnson",
+    "city": "Chicago",
+    "salary": 140879.29,
+    "version": 1,
+    "event_timestamp": "2026-11-01T11:13:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000020",
+    "customer_id": "CUST-01019",
+    "operation": "INSERT",
+    "name": "David Brown",
+    "city": "Atlanta",
+    "salary": 86541.35,
+    "version": 1,
+    "event_timestamp": "2026-11-01T11:23:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000021",
+    "customer_id": "CUST-01020",
+    "operation": "INSERT",
+    "name": "Joseph Williams",
+    "city": "Seattle",
+    "salary": 59661.18,
+    "version": 1,
+    "event_timestamp": "2026-11-01T11:36:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000022",
+    "customer_id": "CUST-01021",
+    "operation": "INSERT",
+    "name": "Sarah Rodriguez",
+    "city": "Seattle",
+    "salary": 123436.45,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:55:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000023",
+    "customer_id": "CUST-01022",
+    "operation": "INSERT",
+    "name": "Richard Garcia",
+    "city": "Chicago",
+    "salary": 149719.21,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:18:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000024",
+    "customer_id": "CUST-01023",
+    "operation": "INSERT",
+    "name": "Thomas Davis",
+    "city": "San Francisco",
+    "salary": 124357.13,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:15:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000025",
+    "customer_id": "CUST-01024",
+    "operation": "INSERT",
+    "name": "John Hernandez",
+    "city": "Austin",
+    "salary": 128168.33,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:55:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000026",
+    "customer_id": "CUST-01019",
+    "operation": "DELETE",
+    "name": "David Brown",
+    "city": "Atlanta",
+    "salary": 86541.35,
+    "version": 2,
+    "event_timestamp": "2026-11-01T19:50:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000027",
+    "customer_id": "CUST-01019",
+    "operation": "UPDATE",
+    "name": "David Brown",
+    "city": "Atlanta",
+    "salary": 95219.96,
+    "version": 3,
+    "event_timestamp": "2026-11-01T22:21:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000028",
+    "customer_id": "CUST-01000",
+    "operation": "UPDATE",
+    "name": "Patricia Smith",
+    "city": "Seattle",
+    "salary": 83890.57,
+    "version": 2,
+    "event_timestamp": "2026-11-01T15:17:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000029",
+    "customer_id": "CUST-01008",
+    "operation": "UPDATE",
+    "name": "William Gonzalez",
+    "city": "New York",
+    "salary": 130416.37,
+    "version": 2,
+    "event_timestamp": "2026-11-01T19:08:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000030",
+    "customer_id": "CUST-01014",
+    "operation": "DELETE",
+    "name": "Robert Martinez",
+    "city": "Austin",
+    "salary": 101084.69,
+    "version": 2,
+    "event_timestamp": "2026-11-02T01:39:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000031",
+    "customer_id": "CUST-01023",
+    "operation": "UPDATE",
+    "name": "Thomas Davis",
+    "city": "San Francisco",
+    "salary": 149526.07,
+    "version": 2,
+    "event_timestamp": "2026-11-01T21:52:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000032",
+    "customer_id": "CUST-01003",
+    "operation": "UPDATE",
+    "name": "James Rodriguez",
+    "city": "Chicago",
+    "salary": 146421.87,
+    "version": 2,
+    "event_timestamp": "2026-11-01T18:25:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000033",
+    "customer_id": "CUST-01006",
+    "operation": "DELETE",
+    "name": "William Williams",
+    "city": "Chicago",
+    "salary": 145507.37,
+    "version": 2,
+    "event_timestamp": "2026-11-02T02:20:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000034",
+    "customer_id": "CUST-01005",
+    "operation": "UPDATE",
+    "name": "James Gonzalez",
+    "city": "Austin",
+    "salary": 146045.52,
+    "version": 2,
+    "event_timestamp": "2026-11-02T02:37:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000035",
+    "customer_id": "CUST-01019",
+    "operation": "UPDATE",
+    "name": "David Brown",
+    "city": "Atlanta",
+    "salary": 102111.37,
+    "version": 4,
+    "event_timestamp": "2026-11-01T13:39:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000036",
+    "customer_id": "CUST-01009",
+    "operation": "DELETE",
+    "name": "Patricia Anderson",
+    "city": "Denver",
+    "salary": 53274.02,
+    "version": 2,
+    "event_timestamp": "2026-11-01T17:26:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000037",
+    "customer_id": "CUST-01018",
+    "operation": "UPDATE",
+    "name": "William Johnson",
+    "city": "Chicago",
+    "salary": 168545.38,
+    "version": 2,
+    "event_timestamp": "2026-11-01T14:47:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000038",
+    "customer_id": "CUST-01024",
+    "operation": "UPDATE",
+    "name": "John Hernandez",
+    "city": "Austin",
+    "salary": 137867.89,
+    "version": 2,
+    "event_timestamp": "2026-11-01T15:28:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000039",
+    "customer_id": "CUST-01017",
+    "operation": "DELETE",
+    "name": "Mary Brown",
+    "city": "New York",
+    "salary": 129529.81,
+    "version": 2,
+    "event_timestamp": "2026-11-01T22:20:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000040",
+    "customer_id": "CUST-01019",
+    "operation": "UPDATE",
+    "name": "David Brown",
+    "city": "Atlanta",
+    "salary": 126187.46,
+    "version": 5,
+    "event_timestamp": "2026-11-01T16:56:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000041",
+    "customer_id": "CUST-01022",
+    "operation": "DELETE",
+    "name": "Richard Garcia",
+    "city": "Chicago",
+    "salary": 149719.21,
+    "version": 2,
+    "event_timestamp": "2026-11-01T18:39:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000042",
+    "customer_id": "CUST-01012",
+    "operation": "UPDATE",
+    "name": "Patricia Miller",
+    "city": "Seattle",
+    "salary": 104154.84,
+    "version": 2,
+    "event_timestamp": "2026-11-02T00:25:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000043",
+    "customer_id": "CUST-01014",
+    "operation": "UPDATE",
+    "name": "Robert Martinez",
+    "city": "Miami",
+    "salary": 107433.33,
+    "version": 3,
+    "event_timestamp": "2026-11-01T17:10:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000044",
+    "customer_id": "CUST-01007",
+    "operation": "UPDATE",
+    "name": "Patricia Johnson",
+    "city": "Denver",
+    "salary": 58696.11,
+    "version": 2,
+    "event_timestamp": "2026-11-01T13:27:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000045",
+    "customer_id": "CUST-01007",
+    "operation": "DELETE",
+    "name": "Patricia Johnson",
+    "city": "Denver",
+    "salary": 58696.11,
+    "version": 3,
+    "event_timestamp": "2026-11-01T13:52:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000046",
+    "customer_id": "CUST-01010",
+    "operation": "DELETE",
+    "name": "Barbara Martinez",
+    "city": "Chicago",
+    "salary": 118980.04,
+    "version": 2,
+    "event_timestamp": "2026-11-01T17:23:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000047",
+    "customer_id": "CUST-01008",
+    "operation": "UPDATE",
+    "name": "William Gonzalez",
+    "city": "New York",
+    "salary": 151002.17,
+    "version": 3,
+    "event_timestamp": "2026-11-01T16:59:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000048",
+    "customer_id": "CUST-01018",
+    "operation": "UPDATE",
+    "name": "William Johnson",
+    "city": "Chicago",
+    "salary": 203421.44,
+    "version": 3,
+    "event_timestamp": "2026-11-01T17:28:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000049",
+    "customer_id": "CUST-01006",
+    "operation": "UPDATE",
+    "name": "William Williams",
+    "city": "Chicago",
+    "salary": 165326.96,
+    "version": 3,
+    "event_timestamp": "2026-11-02T00:34:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000050",
+    "customer_id": "CUST-01014",
+    "operation": "UPDATE",
+    "name": "Robert Martinez",
+    "city": "Miami",
+    "salary": 127273.36,
+    "version": 4,
+    "event_timestamp": "2026-11-01T14:15:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000003",
+    "customer_id": "CUST-01002",
+    "operation": "INSERT",
+    "name": "Mary Smith",
+    "city": "San Francisco",
+    "salary": 67956.99,
+    "version": 1,
+    "event_timestamp": "2026-11-01T11:05:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000004",
+    "customer_id": "CUST-01003",
+    "operation": "INSERT",
+    "name": "Conflicting Name 200",
+    "city": "Chicago",
+    "salary": 999999.0,
+    "version": 1,
+    "event_timestamp": "2026-11-01T11:30:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000051",
+    "customer_id": "CUST-01000",
+    "operation": "UPDATE",
+    "name": "Patricia Smith",
+    "city": "Late City",
+    "salary": 50000.0,
+    "version": 1,
+    "event_timestamp": "2026-10-31T10:00:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000052",
+    "customer_id": "CUST-01001",
+    "operation": "ARCHIVE_INVALID",
+    "name": "Invalid Op Person",
+    "city": "Austin",
+    "salary": 60000.0,
+    "version": 5,
+    "event_timestamp": "2026-11-01T10:00:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000053",
+    "customer_id": "CUST-01002",
+    "operation": "UPDATE",
+    "name": "Mary Smith",
+    "city": "Austin",
+    "salary": -5000.0,
+    "version": 10,
+    "event_timestamp": "2026-11-01T10:00:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000054",
+    "customer_id": "",
+    "operation": "INSERT",
+    "name": "No ID Person",
+    "city": "Denver",
+    "salary": 75000.0,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:00:00+00:00"
+  },
+  {
+    "event_id": "",
+    "customer_id": "CUST-99999",
+    "operation": "INSERT",
+    "name": "No Event ID",
+    "city": "Denver",
+    "salary": 75000.0,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:00:00+00:00"
+  },
+  {
+    "event_id": "EVT-0000055",
+    "customer_id": "CUST-NONEXISTENT-999",
+    "operation": "UPDATE",
+    "name": "Ghost Customer",
+    "city": "Seattle",
+    "salary": 80000.0,
+    "version": 1,
+    "event_timestamp": "2026-11-01T10:00:00+00:00"
+  }
+]
