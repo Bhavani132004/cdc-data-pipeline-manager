@@ -246,3 +246,4 @@ class PipelinePage(ctk.CTkFrame):
         self.btn_run.configure(state="normal", text="▶ Start Ingestion")
         self.lbl_stage.configure(text=f"Pipeline Status: FAILED - {err_msg}", text_color=ACCENT_RED)
         messagebox.showerror("Pipeline Failure", f"Pipeline encountered an error:\n{err_msg}")
+

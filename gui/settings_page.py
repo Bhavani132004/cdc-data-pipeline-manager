@@ -191,3 +191,4 @@ class SettingsPage(ctk.CTkFrame):
         events, exp = generate_cdc_events(record_count=count, seed=123, include_edge_cases=True)
         csv_file, _, _ = save_dataset(events, exp, self.config.input_dir, base_name=f"customer_events_{count}")
         messagebox.showinfo("Dataset Generated", f"Successfully generated {count:,} events at:\n{csv_file}")
+

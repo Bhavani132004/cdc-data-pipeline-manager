@@ -222,3 +222,4 @@ class DashboardPage(ctk.CTkFrame):
         else:
             self.lbl_run_id.configure(text="Run ID: None (No runs yet)")
             self.lbl_run_status.configure(text="Status: IDLE", text_color=TEXT_MUTED)
+

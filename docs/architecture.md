@@ -100,3 +100,4 @@ flowchart TD
 ### Stage 5: Atomic Batch Persistence
 - Database operations are wrapped inside a single SQLAlchemy session transaction per batch.
 - High-performance SQLite PRAGMAs (`WAL` mode, `synchronous = NORMAL`, `cache_size = -64000`) allow batch writing of thousands of records per second without database locks.
+

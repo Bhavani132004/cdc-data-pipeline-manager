@@ -113,3 +113,4 @@ class AppConfig:
                 pass  # Fallback to defaults
 
         return cfg
+

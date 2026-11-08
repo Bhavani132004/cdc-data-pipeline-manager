@@ -375,3 +375,4 @@ class CDCPipeline:
         df = pd.DataFrame(rows)
         df.to_csv(q_path, index=False)
         self.logger.info(f"Exported {len(rows)} quarantined records to {q_path}")
+

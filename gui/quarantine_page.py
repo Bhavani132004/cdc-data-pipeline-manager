@@ -139,3 +139,4 @@ class QuarantinePage(ctk.CTkFrame):
         if f:
             count = self.reporting.export_table_to_csv("rejected_records", Path(f))
             messagebox.showinfo("Export Complete", f"Successfully exported {count:,} quarantined records to:\n{f}")
+

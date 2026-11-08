@@ -55,3 +55,4 @@ class DeduplicationManager:
     def register(self, event_id: str, payload_hash: str) -> None:
         """Registers a newly accepted event ID and payload hash."""
         self.seen_events[event_id] = payload_hash
+

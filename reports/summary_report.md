@@ -4,5 +4,5 @@
 - **Deleted Customers:** 8
 - **Total Current Records:** 25
 - **Total Historical Audit Events:** 45
-- **Total Quarantined Rejections:** 12
-- **Total Skipped Duplicates:** 1
+- **Total Quarantined Rejections:** 24
+- **Total Skipped Duplicates:** 47

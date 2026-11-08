@@ -76,3 +76,4 @@ class PipelineMetrics:
             "memory_usage_mb": self.current_memory_mb,
             "stage_durations": self.stage_durations,
         }
+

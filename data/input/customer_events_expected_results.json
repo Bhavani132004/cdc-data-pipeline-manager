@@ -1,8 +1,8 @@
 {
-  "total_generated": 58,
-  "inserts": 25,
-  "updates": 17,
-  "deletes": 8,
+  "total_generated": 100008,
+  "inserts": 50000,
+  "updates": 38810,
+  "deletes": 11190,
   "exact_duplicates": 1,
   "conflicting_duplicates": 1,
   "out_of_order": 1,

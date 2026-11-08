@@ -158,3 +158,4 @@ class ModernTreeview(ctk.CTkFrame):
         self.clear()
         for r in rows:
             self.tree.insert("", "end", values=r)
+

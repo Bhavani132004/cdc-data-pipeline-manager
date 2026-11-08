@@ -165,3 +165,4 @@ class ReportingService:
         df = pd.DataFrame(records)
         df.to_csv(destination_path, index=False)
         return len(df)
+

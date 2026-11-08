@@ -169,3 +169,4 @@ def resolve_cdc_transition(
         event_status="REJECTED",
         rejection_reason=f"UNHANDLED_OPERATION: {op}",
     )
+

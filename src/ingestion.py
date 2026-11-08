@@ -139,3 +139,4 @@ def count_file_records(filepath: Path) -> int:
         except Exception:
             return 0
     return 0
+

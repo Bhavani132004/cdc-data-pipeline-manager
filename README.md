@@ -263,3 +263,4 @@ cdc_data_pipeline/
 
 - **Single Node Engine**: Optimized for single-node machines using SQLite. For petabyte-scale distributed ingestion, the transformation logic maps directly to Apache Spark / Delta Lake or Apache Flink.
 - **Synchronous Ingestion UI**: While GUI background threads prevent UI lockup during ingestion, future versions can incorporate a decoupled background worker service (Celery / RQ).
+

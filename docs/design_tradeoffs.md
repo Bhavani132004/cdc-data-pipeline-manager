@@ -59,3 +59,4 @@ While this project is architected for local, standalone execution, the modular d
 | SQLite Database | PostgreSQL / Snowflake / Amazon Redshift | Switch SQLAlchemy connection string; leverage native PostgreSQL `ON CONFLICT` upserts. |
 | Batch Streaming | Apache Spark Structured Streaming / Delta Lake | Express state transformations in Delta Lake using `MERGE INTO` operations with CDC change feeds. |
 | Desktop GUI / CLI | Airflow / Dagster Orchestrator + Grafana | Schedule ingestion jobs via Airflow DAGs; export pipeline metrics to Prometheus/Grafana. |
+

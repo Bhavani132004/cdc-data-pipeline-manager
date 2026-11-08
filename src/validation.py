@@ -209,3 +209,4 @@ def validate_record(raw: Dict[str, Any]) -> ValidationResult:
         sanitized_record=sanitized,
         raw_payload=raw_payload_str,
     )
+

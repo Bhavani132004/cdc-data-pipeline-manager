@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-07T03:04:36.756959+00:00",
+  "timestamp": "2026-11-07T09:16:33.102835+00:00",
   "overall_status": "PASS",
   "total_checks": 7,
   "passed_checks": 7,
@@ -38,7 +38,7 @@
     {
       "check_name": "Event Accounting Conservation (Input = Valid + Dup + Rej)",
       "status": "PASS",
-      "details": "Runs failing exact event accounting: 0 (out of 1 runs)",
+      "details": "Runs failing exact event accounting: 0 (out of 2 runs)",
       "passed": true
     },
     {

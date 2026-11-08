@@ -429,3 +429,4 @@ def test_23_large_dataset_execution(test_env, tmp_path):
     assert metrics.total_input == len(events)
     assert metrics.status == "COMPLETED"
     assert metrics.valid_count > 0
+

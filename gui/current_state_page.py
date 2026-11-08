@@ -187,3 +187,4 @@ class CurrentStatePage(ctk.CTkFrame):
         if f:
             count = self.reporting.export_table_to_csv("current_customers", Path(f))
             messagebox.showinfo("Export Complete", f"Successfully exported {count:,} current customer records to:\n{f}")
+

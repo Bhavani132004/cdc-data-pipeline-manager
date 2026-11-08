@@ -164,3 +164,4 @@ class HistoryPage(ctk.CTkFrame):
         if f:
             count = self.reporting.export_table_to_csv("customer_history", Path(f))
             messagebox.showinfo("Export Complete", f"Successfully exported {count:,} history records to:\n{f}")
+

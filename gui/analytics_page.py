@@ -220,3 +220,4 @@ class AnalyticsPage(ctk.CTkFrame):
         else:
             messagebox.showwarning("Reconciliation Audit Warning", msg)
         self.refresh_all()
+

@@ -249,3 +249,4 @@ class DatabaseManager:
                 "total_late_events": sum_late,
                 "latest_run": latest_run.to_dict() if latest_run else None,
             }
+

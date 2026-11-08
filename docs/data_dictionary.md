@@ -96,3 +96,4 @@ Registry of ingested files and SHA-256 cryptographic digests ensuring idempotent
 | `first_run_id` | VARCHAR(64) | NO | None | Pipeline `run_id` when file was initially ingested. |
 | `processed_at` | VARCHAR(32) | NO | None | UTC timestamp of last ingestion attempt. |
 | `processing_status`| VARCHAR(32) | NO | None | Status of file processing (`COMPLETED` or `FAILED`). |
+
